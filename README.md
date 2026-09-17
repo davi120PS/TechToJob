@@ -5,7 +5,6 @@ Landing responsive para la comunidad TechToJob, concebida como una pieza de prod
 ## En vivo
 
 - Sitio: [https://techtojob-community.vercel.app](https://techtojob-community.vercel.app)
-- Proyecto en Vercel: [https://vercel.com/davi120gameryt-2446/techtojob-community](https://vercel.com/davi120gameryt-2446/techtojob-community)
 
 ## Stack
 
